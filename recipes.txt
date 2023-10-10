@@ -1,0 +1,6 @@
+recipe name:butter chickrn
+inbgredients
+chicken
+chilli powder 
+pepper
+salt 2spoon
